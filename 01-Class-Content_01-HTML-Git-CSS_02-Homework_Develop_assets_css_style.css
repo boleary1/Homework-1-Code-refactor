@@ -1,6 +1,6 @@
 /* container using flex box https://www.youtube.com/watch?v=JJSoEo8JSnc <- the video I used as a source
  */
-.container-1{
+/* .container-1{ 
     display:flex;
 }
 .container-1 div{
@@ -22,7 +22,7 @@
     flex:2;
     order:2;
 }
-
+*/
 /* end flexbox information */
 
 
