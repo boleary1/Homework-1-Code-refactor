@@ -1,9 +1,12 @@
 # Homework 1: read me
 [live website](https://boleary1.github.io/Homework-1-Code-refactor/)
 ---
-
+## Screenshots:
+### Screenshot 1:
 ![Screenshot 1](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%201.PNG)
-1[Screenshot 2](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%202.PNG)
+### Screenshot 2:
+![Screenshot 2](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live3%20screenshot%202.PNG)
+### Screenshot 3:
 ![Screenshot 3](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%203.PNG)
 
 01 HTML CSS Git: Code Refactor
