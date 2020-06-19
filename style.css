@@ -47,7 +47,7 @@ table {
 	border-spacing: 0;
 }
 
-/*CSS reset*/
+/*CSS reset above here*/
 
 * {
     box-sizing: border-box;
@@ -58,7 +58,22 @@ table {
 body {
     background-color: #d9dcd6;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
+p {
+    font-size: 16px;
+}
+
+h3 {
+    font-weight: 900;
+    font-size: Large;
+}
+
+
+/* Header specific CSS starts here*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -91,15 +106,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header specific CSS ends here*/
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -110,6 +119,16 @@ p {
     background-position: center;
 }
 
+
+
+
+
+/* Main specific CSS starts here*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -120,11 +139,31 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+.search-engine-optimization, .online-reputation-management, .social-media-marketing  { /* combined search engine opptimization, online reputaion managment and social media marketing*/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
+
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {/* combined search engine opptimization, online reputaion managment and social media marketing*/
+    max-height: 200px;
+}
+
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 { /* combined search engine opptimization, online reputaion managment and social media marketing*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Main specific CSS ends here*/
+
+
+
+
+
+/* Asside specific CSS starts here*/
 
 .benefits {
     margin-right: 20px;
@@ -153,24 +192,11 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing  { /* combined search engine opptimization, online reputaion managment and social media marketing*/
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+/* Asside specific CSS ends here*/
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {/* combined search engine opptimization, online reputaion managment and social media marketing*/
-    max-height: 200px;
-}
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 { /* combined search engine opptimization, online reputaion managment and social media marketing*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
+/* Footer specific CSS starts here*/
 .footer {
     padding: 30px;
     clear: both;
@@ -181,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer specific CSS ends here*/
