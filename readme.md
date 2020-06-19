@@ -10,7 +10,7 @@ Last edit was 6/19/2020 by Brian O'leary.  Contact oleary.brian1@gmail.com with 
 ### Screenshot 1:
 ![Screenshot 1](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%201.PNG)
 ### Screenshot 2:
-![Screenshot 2](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live3%20screenshot%202.PNG)
+![Screenshot 2](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%202.PNG)
 ### Screenshot 3:
 ![Screenshot 3](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%203.PNG)
 
