@@ -47,7 +47,12 @@ table {
 	border-spacing: 0;
 }
 
-/*CSS reset above here*/
+/*----------------------------------------CSS reset above here----------------------------------------*/
+
+
+
+
+
 
 * {
     box-sizing: border-box;
@@ -73,7 +78,9 @@ h3 {
 }
 
 
-/* Header specific CSS starts here*/
+
+
+/* ----------------------------------------Header specific CSS starts here----------------------------------------*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -106,7 +113,10 @@ h3 {
     display: inline-block;
     margin-left: 25px;
 }
-/* Header specific CSS ends here*/
+/*---------------------------------------- Header specific CSS ends here----------------------------------------*/
+
+
+
 
 
 
@@ -114,7 +124,6 @@ h3 {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./assets/digital-marketing-meeting.jpg"); /* changed img location to make it work*/
     background-size: cover;
     background-position: center;
 }
@@ -123,7 +132,7 @@ h3 {
 
 
 
-/* Main specific CSS starts here*/
+/* ----------------------------------------Main specific CSS starts here----------------------------------------*/
 .content {
     width: 75%;
     display: inline-block;
@@ -157,13 +166,13 @@ h3 {
     font-size: 36px;
 }
 
-/* Main specific CSS ends here*/
+/* ----------------------------------------Main specific CSS ends here----------------------------------------*/
 
 
 
 
 
-/* Asside specific CSS starts here*/
+/*---------------------------------------- Asside specific CSS starts here----------------------------------------*/
 
 .benefits {
     margin-right: 20px;
@@ -192,11 +201,15 @@ h3 {
     max-width: 150px;
 }
 
-/* Asside specific CSS ends here*/
+/*---------------------------------------- Asside specific CSS ends here----------------------------------------*/
 
 
 
-/* Footer specific CSS starts here*/
+
+
+
+
+/* ----------------------------------------Footer specific CSS starts here----------------------------------------*/
 .footer {
     padding: 30px;
     clear: both;
@@ -207,4 +220,4 @@ h3 {
 .footer h2 {
     font-size: 20px;
 }
-/* Footer specific CSS ends here*/
+/* ----------------------------------------Footer specific CSS ends here----------------------------------------*/
