@@ -1,6 +1,9 @@
 # Homework 1: read me
 [live website](https://boleary1.github.io/Homework-1-Code-refactor/)
 ---
+![Screen shot 1] (live screenshot 1.PNG)
+
+
 
 01 HTML CSS Git: Code Refactor
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
