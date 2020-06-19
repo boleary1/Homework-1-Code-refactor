@@ -1,7 +1,8 @@
 # Homework 1: read me
 [live website](https://boleary1.github.io/Homework-1-Code-refactor/)
 ---
-![alt](live screenshot 1.PNG)
+
+![](live screenshot 1.PNG)
 
 
 
