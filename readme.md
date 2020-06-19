@@ -2,7 +2,7 @@
 [live website](https://boleary1.github.io/Homework-1-Code-refactor/)
 ---
 
-![](live screenshot 1.PNG)
+![test](https://github.com/boleary1/Homework-1-Code-refactor/blob/master/live%20screenshot%201.PNG)
 
 
 
